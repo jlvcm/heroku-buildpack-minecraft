@@ -30,6 +30,7 @@
     "MINECRAFT_VERSION":{
       "description": "Minecraft Version",
       "required": false
+    }
   },
   "buildpacks": [
     {
